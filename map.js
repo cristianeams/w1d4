@@ -46,9 +46,7 @@ function showReversedWords(array,doSomething) {
 console.log(showReversedWords(words,reverseWord));
 
 
-
-// [6, 7, 2, 5, 3]
-
-// [ "GROUND", "CONTROL", "TO", "MAJOR", "TOM" ]
-
-// [ 'dnuorg', 'lortnoc', 'ot', 'rojam', 'mot' ]
+/* Expected results
+[6, 7, 2, 5, 3]
+[ "GROUND", "CONTROL", "TO", "MAJOR", "TOM" ]
+[ 'dnuorg', 'lortnoc', 'ot', 'rojam', 'mot' ] */
