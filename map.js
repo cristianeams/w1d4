@@ -1,3 +1,6 @@
+//Takes in an array and a callback function
+//Returns a new array based on the results of the callback function
+
 var words = ["ground", "control", "to", "major", "tom"];
 
 var countLength = function(item) {
