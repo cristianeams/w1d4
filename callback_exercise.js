@@ -4,6 +4,7 @@ var input = [
   { x: 8, y: 15 }
 ];
 var result = input.map(function(item) {
+  //Math.pow to do the exponent
   var z = Math.sqrt(Math.pow(item.x, 2) + Math.pow(item.y, 2));
   return Math.round(z);
 });
